@@ -1,6 +1,6 @@
 [project]
-name = "Yelp Review Transformer"
-version = "0.1.0"
+name = "Yelp-Review-Transformer"
+version = "0.1.1"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
