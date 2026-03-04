@@ -5,7 +5,7 @@ Ben Funk
 
 **Version: 1.0.0**
 
-A machine learning project that predicts Yelp review star ratings (1-5) from review text using traditional ML models and deep learning approaches. Built with Python, scikit-learn, XGBoost, and PyTorch.
+A basic machine learning project that predicts Yelp review star ratings (1-5) from review text using traditional ML models and deep learning approaches. Built with Python, scikit-learn, XGBoost, and PyTorch.
 
 ## Overview
 
